@@ -10,7 +10,7 @@ namespace gifdemo
     {
         static void Main(string[] args)
         {
-            // hello 
+            // hello project
         }
     }
 }

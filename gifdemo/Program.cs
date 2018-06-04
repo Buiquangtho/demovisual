@@ -11,6 +11,7 @@ namespace gifdemo
         static void Main(string[] args)
         {
             // hello project
+            // lan 2
         }
     }
 }
